@@ -16,8 +16,8 @@ from telegram.ext import (
     MessageHandler, ContextTypes, filters
 )
 
-TOKEN = os.getenv("MANAGER_BOT_TOKEN", "")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
+TOKEN = os.getenv("8931014087:AAE1eSunrELKSFVTi72gN0zvSE-nnu9HrEo", "")
+ADMIN_ID = int(os.getenv("8444969077", "0"))
 ADMIN_CONTACT = "@Gamer_pro_a_s"
 
 BASE = Path("hosted_bots").resolve()
